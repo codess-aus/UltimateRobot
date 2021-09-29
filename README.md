@@ -19,4 +19,6 @@ based on labels in the telemetry.  This script will be based on the expressJS sc
 
 [MakeBlock for MegaPi](https://github.com/codess-aus/PythonForMegaPi?organization=codess-aus&organization=codess-aus)
 
+[Makeblock MegaPi](http://learn.makeblock.com/en/megapi/)
+
 [Perceptmobile: Azure Percept Obstacle Avoidance LEGO Car](https://techcommunity.microsoft.com/t5/internet-of-things/perceptmobile-azure-percept-obstacle-avoidance-lego-car/ba-p/2352666)
