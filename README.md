@@ -22,3 +22,5 @@ based on labels in the telemetry.  This script will be based on the expressJS sc
 [Makeblock MegaPi](http://learn.makeblock.com/en/megapi/)
 
 [Perceptmobile: Azure Percept Obstacle Avoidance LEGO Car](https://techcommunity.microsoft.com/t5/internet-of-things/perceptmobile-azure-percept-obstacle-avoidance-lego-car/ba-p/2352666)
+
+[Make a smart webcam in JavaScript with a TensorFlow.js pre-trained Machine Learning model](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection#0)
