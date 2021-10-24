@@ -2,6 +2,7 @@
 Use it to Control the components on the car.
 You need the New Ping Library for the ultrasonic sensor.
 The maximum distance between the car and an object is set in the code and the reaction of the car too. The reaction of the car to an obstacle is : go back, look right, look left and go where it is clear. If both sides are clear, it will go forward.
+https://www.hackster.io/adam/obstacle-avoiding-car-a192d9
 */
 
 #include <Servo.h>          //standard library for the servo
