@@ -1,0 +1,11 @@
+import requests
+import json
+
+r = requests.get('http://dev-pi.local:3000/')
+
+jData = json.loads(r.text)
+
+label = jData["NEURAL_NETWORK"][0]["label"]
+
+print(label)
+
