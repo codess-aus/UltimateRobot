@@ -25,16 +25,15 @@ const { EventHubConsumerClient } = require("@azure/event-hubs");
 
 // Event Hub-compatible endpoint
 // az iot hub show --query properties.eventHubEndpoints.events.endpoint --name {your IoT Hub name}
-// az iot hub show --query properties.eventHubEndpoints.events.endpoint --name {your IoT Hub name}
-const eventHubsCompatibleEndpoint = "*******************************"; 
+const eventHubsCompatibleEndpoint = "<enter key here";
 
 // Event Hub-compatible name
 // az iot hub show --query properties.eventHubEndpoints.events.path --name {your IoT Hub name}
-const eventHubsCompatiblePath = "azureblack";
+const eventHubsCompatiblePath = "<enter hub name here>";
 
 // Primary key for the "service" policy to read messages
 // az iot hub policy show --name service --query primaryKey --hub-name {your IoT Hub name}
-const iotHubSasKey = "**************************************";
+const iotHubSasKey = "enter saas key here";
 
 // If you have access to the Event Hub-compatible connection string from the Azure portal, then
 // you can skip the Azure CLI commands above, and assign the connection string directly here.
