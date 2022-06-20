@@ -76,7 +76,7 @@ var printMessages = function (messages) {
 };
 
 async function main() {
-  console.log("Welcome to Latency - I'm reading device to cloud messages.");
+  console.log("Welcome to the Conference - I'm reading device to cloud messages.");
 
   // If using websockets, uncomment the webSocketOptions below
   // If using proxy, then set `webSocketConstructorOptions` to { agent: proxyAgent }
